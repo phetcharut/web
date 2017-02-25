@@ -1,0 +1,6 @@
+cc99ff
+008000
+000080
+
+background-repeat : no-repeat;
+background-attachment : fixed
